@@ -14,3 +14,9 @@ disk_space        = 10
 database_name     = "dbname"
 db_username       = "dbuser"
 db_password       = "dbpassword"
+
+#bucket
+bucket="data-bootcamp-terraforms-us"
+
+#service account
+name="airflow"
