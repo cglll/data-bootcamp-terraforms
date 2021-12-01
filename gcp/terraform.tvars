@@ -16,7 +16,10 @@ db_username       = "dbuser"
 db_password       = "dbpassword"
 
 #bucket
-bucket="data-bootcamp-terraforms-us"
+bucket="databootcampcglllbucket"
 
 #service account
 name="airflow"
+
+#user
+email_user="cglllcglll@gmail.com"
